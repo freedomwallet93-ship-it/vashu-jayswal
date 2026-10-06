@@ -1,0 +1,11 @@
+# reproducible build artifacts (regenerate with build/*.py)
+work/clips/
+work/ov_frames/
+work/base.mp4
+work/captions_overlay.mov
+work/*.txt
+work/qc/
+assets/captions/
+*.tmp.wav
+__pycache__/
+output/qc/*.png
